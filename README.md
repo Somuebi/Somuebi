@@ -12,7 +12,7 @@ I'm currently working on my personal portfolio<br>I'm currently learning Swift a
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Somuebi&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Daily Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
