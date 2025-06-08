@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my personal portfolio<br>I'm currently learning Swift and React<br>Ask me about front-end development, UI/UX and software development<br>I have a 1275 day streak in Duolingo German<br>
+I'm currently working on my personal portfolio.<br>I'm currently learning Swift and React.<br>Ask me about front-end development, UI/UX and software development.<br>I have a 1275 day streak in Duolingo German.<br>
 
 
 # 💻 Tech Stack:
